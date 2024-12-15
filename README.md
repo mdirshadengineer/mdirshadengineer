@@ -67,6 +67,13 @@ Thanks for stopping by! Feel free to explore my repositories and connect if you 
   width="100%"
 />
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Streak Stats ?
+
+<img 
+  src="https://streak-stats.demolab.com?user=mdirshadengineer&theme=gruvbox_duo&mode=weekly"
+  width="100%"
+/>
+
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
