@@ -60,6 +60,13 @@ I'm a **Senior Technical Consultant** with a passion for building robust and sca
 
 Thanks for stopping by! Feel free to explore my repositories and connect if you share similar interests or have exciting projects in mind! ✨
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some Stats ?
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=mdirshadengineer&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&langs_count=true"
+  width="100%"
+/>
+
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
