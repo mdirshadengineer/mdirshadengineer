@@ -60,3 +60,35 @@ I'm a **Senior Technical Consultant** with a passion for building robust and sca
 
 Thanks for stopping by! Feel free to explore my repositories and connect if you share similar interests or have exciting projects in mind! ✨
 
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdirshadengineer/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<div align="center">
+  <h1 align="center">
+    👨‍💻 My Resume
+  </h1>
+  <a target="_blank" href="https://github.com/mdirshadengineer/mdirshadengineer/blob/main/Md%20Irshad%20(RESUME).pdf">
+    Link to my Resume
+  </a>
+  <p>Started working in UniKomm.</p>
+</div>
+
+## I am also a Space enthusiast always eager to watch the NASA's Mission
+
+<p align="center">
+  <h4>This boarding pass is for Mission Mars 2026</h4>
+  <img src="https://raw.githubusercontent.com/mdirshaddev/icons-repository/main/mars-mission/MarsFutureMission.png" />
+ </p>
+ 
+ <p align="center">
+  <h4>This boarding pass is for Mission Mars 2020 (Sending the Rover)</h4>
+  <img src="https://raw.githubusercontent.com/mdirshaddev/icons-repository/main/mars-mission/Mars2020.png" />
+ </p>
+
